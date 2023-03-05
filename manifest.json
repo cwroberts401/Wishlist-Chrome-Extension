@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "My Wishlist",
+    "version": "1.0",
+    "description": "A simple Chrome extension that allows you to save links to your wishlist.",
+    "icons": {
+        "16": "images/icon-16.png"
+    },
+    "permissions": [
+      "activeTab",
+      "storage"
+    ],
+    "browser_action": {
+      "default_icon": "images/icon-16.png",
+      "default_title": "My Wishlist",
+      "default_popup": "popup.html"
+    }
+  }
+  
