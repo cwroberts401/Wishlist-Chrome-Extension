@@ -1,0 +1,1 @@
+this is a simple chrome extension to keep track of wishlist items
